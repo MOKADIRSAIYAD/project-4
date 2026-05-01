@@ -4,6 +4,7 @@ Interactive Personal Data Collector (Python)
 This project is a simple interactive Python application developed in a Jupyter Notebook (.ipynb). It
 collects personal data from the user, processes it, and displays detailed information including data
 types and memory references.
+# video_link : https://drive.google.com/file/d/1otnkXgAbmIE-lEKyh7XzuH8cLS2yJU_F/view?usp=drivesdk
 ### Features:- Collects Name, Age, Height, Favourite Number- Displays values, data types, and memory addresses- Calculates approximate birth year
 Technologies:- Python- Jupyter Notebook
 ## How to Run:
